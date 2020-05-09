@@ -1,3 +1,2 @@
 Arduino-tone-music is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-
 Mozzi is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
